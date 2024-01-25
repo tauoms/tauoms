@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a full stack web development student at bc helsinki.
+- 🌱 I’m currently studying full stack web development (JS, React, PHP, Symfony, Drupal, CI and AWS, HTML5, CSS3) at bc helsinki.
+
+- 📫 How to reach me: tauoms@gmail.com
 
 ![Codewars](https://github.r2v.ch/codewars?user=tauoms)
 
