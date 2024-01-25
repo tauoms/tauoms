@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: tauoms@gmail.com
 
-![Codewars](https://github.r2v.ch/codewars?user=tauoms)
+![Codewars](https://github.r2v.ch/codewars?user=tauoms&stroke=%23AA4465)
 
 <!--
 **tauoms/tauoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
