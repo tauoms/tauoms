@@ -2,8 +2,8 @@
 
 - 🌱 I’m currently studying full stack web development (JS, React, PHP, Symfony, Drupal, CI and AWS, HTML5, CSS3) at bc helsinki.
 
-- 📫 How to reach me: tauoms@gmail.com
-
+- 📫 How to reach me: ```tauoms [at] gmail [dot] com```  
+<br /><br /><br />
 ![Codewars](https://github.r2v.ch/codewars?user=tauoms&stroke=%23AA4465)
 
 <!--
