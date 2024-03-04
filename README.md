@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently studying full stack web development (JS, React, PHP, Symfony, Drupal, CI and AWS, HTML5, CSS3) at bc helsinki.
+- 🌱 I’m currently studying full stack web development (JS, React, PHP, Symfony, Drupal, CI and AWS, HTML5, CSS3) at Business College Helsinki.
 
-- 📫 How to reach me: ```tauoms [at] gmail [dot] com```  
+- 📫 How to reach me: ```tauoms [at] gmail [dot] com``` / <a href="https://www.linkedin.com/in/tuomaskohvakka/">Linkedin</a>
 <br /><br /><br />
-![Codewars](https://github.r2v.ch/codewars?user=tauoms&stroke=%23AA4465)
+![Codewars](https://github.r2v.ch/codewars?user=tauoms&theme=gradient&stroke=%23AA4465)
 
 <!--
 **tauoms/tauoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
