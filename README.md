@@ -6,7 +6,7 @@
 <br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tauoms&theme=gruvbox&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![cw](https://www.codewars.com/users/tauoms/badges/large)
+[![cw](https://www.codewars.com/users/tauoms/badges/small)](https://www.codewars.com/users/tauoms)
 
 <!--
 **tauoms/tauoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
