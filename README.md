@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently studying full stack web development (JS, React, PHP, Symfony, Drupal, CI and AWS, HTML5, CSS3) at Business College Helsinki.
+- 🌱 I’m currently studying full stack web development (JS, React, PHP, Symfony, Drupal, CI/CD and AWS, HTML5, CSS3) at Business College Helsinki.
 
 - 📫 How to reach me: ```tauoms [at] gmail [dot] com``` / <a href="https://www.linkedin.com/in/tuomaskohvakka/">```LinkedIn```</a>
 <br><br><br>
