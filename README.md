@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently studying full stack web development (JS, React, PHP, Symfony, Drupal, CI/CD and AWS, HTML5, CSS3) at Business College Helsinki.
 
+- 🗂️ You can view my (slightly outdated) portfolio here: [https://tauoms.github.io/](https://tauoms.github.io/)
+
 - 📫 How to reach me: ```tauoms [at] gmail [dot] com``` / <a href="https://www.linkedin.com/in/tuomaskohvakka/">```LinkedIn```</a>
 <br><br><br>
 [![cw](https://www.codewars.com/users/tauoms/badges/small)](https://www.codewars.com/users/tauoms)  
